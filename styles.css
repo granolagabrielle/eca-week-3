@@ -1,0 +1,13 @@
+img {
+    height: auto;
+    width: 200px;
+}
+/* Headers and text */
+h1, h2, h3, h4 {
+    font-size: 30px;
+    color: olivedrab;
+    text-decoration: underline;
+}
+.vegan broccoli cheddar soup li {
+    list-style-image: ;
+}
